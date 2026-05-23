@@ -1,0 +1,10 @@
+.github/
+.vscode/
+venv/
+.env
+agent.ipynb
+pydantic_models/__pycache__
+prompt/__pycache__
+agent_component/__pycache__
+.DS_Store
+personal model/
